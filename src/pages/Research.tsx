@@ -86,7 +86,7 @@ const Research = () => {
                         href={paper.link}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className={`link-professional ${paper.highlight ? 'font-semibold' : ''}`}
+                        className="link-professional"
                       >
                         {paper.title}
                       </a>
