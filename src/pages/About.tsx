@@ -63,7 +63,7 @@ const About = () => {
                 href="https://www.linkedin.com/in/david-m-27693ab/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="link-simple text-sm mt-2 inline-block"
+                className="link-professional text-sm mt-2 inline-block"
               >
                 LinkedIn Profile
               </a>
@@ -83,7 +83,7 @@ const About = () => {
                 href="https://www.linkedin.com/in/pankaj-jat-666p"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="link-simple text-sm mt-2 inline-block"
+                className="link-professional text-sm mt-2 inline-block"
               >
                 LinkedIn Profile
               </a>
@@ -103,7 +103,7 @@ const About = () => {
                 href="https://www.linkedin.com/in/bp-sde/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="link-simple text-sm mt-2 inline-block"
+                className="link-professional text-sm mt-2 inline-block"
               >
                 LinkedIn Profile
               </a>

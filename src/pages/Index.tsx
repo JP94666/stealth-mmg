@@ -87,7 +87,7 @@ const Index = () => {
                     href={item.link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className={`link-professional text-sm ${item.highlight ? 'font-semibold' : ''}`}
+                    className="link-professional text-sm"
                   >
                     {item.title}
                   </a>
@@ -117,7 +117,7 @@ const Index = () => {
                     href={item.link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className={`link-professional text-sm ${item.highlight ? 'font-semibold' : ''}`}
+                    className="link-professional text-sm"
                   >
                     {item.title}
                   </a>
